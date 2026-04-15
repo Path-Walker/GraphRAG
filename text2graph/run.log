@@ -1,0 +1,159 @@
+2026-04-07 13:47:23,396 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:23,417 [INFO] Text2Graph 初始化完成
+2026-04-07 13:47:23,418 [INFO] 开始提取知识图谱，共 50 个 chunk
+2026-04-07 13:47:30,709 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:30,711 [INFO] Chunk 0 API耗时: 7.26s
+2026-04-07 13:47:30,712 [INFO] Chunk 0 本地处理耗时: 0.0006s
+2026-04-07 13:47:31,696 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:31,698 [INFO] Chunk 1 API耗时: 0.99s
+2026-04-07 13:47:31,698 [INFO] Chunk 1 本地处理耗时: 0.0001s
+2026-04-07 13:47:32,721 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:32,724 [INFO] Chunk 2 API耗时: 1.02s
+2026-04-07 13:47:32,724 [INFO] Chunk 2 本地处理耗时: 0.0001s
+2026-04-07 13:47:34,065 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:34,067 [INFO] Chunk 3 API耗时: 1.34s
+2026-04-07 13:47:34,067 [INFO] Chunk 3 本地处理耗时: 0.0001s
+2026-04-07 13:47:35,366 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:35,368 [INFO] Chunk 4 API耗时: 1.30s
+2026-04-07 13:47:35,368 [INFO] Chunk 4 本地处理耗时: 0.0001s
+2026-04-07 13:47:36,375 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:36,377 [INFO] Chunk 5 API耗时: 1.01s
+2026-04-07 13:47:36,378 [INFO] Chunk 5 本地处理耗时: 0.0001s
+2026-04-07 13:47:37,683 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:37,685 [INFO] Chunk 6 API耗时: 1.31s
+2026-04-07 13:47:37,685 [INFO] Chunk 6 本地处理耗时: 0.0001s
+2026-04-07 13:47:39,483 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:39,484 [INFO] Chunk 7 API耗时: 1.80s
+2026-04-07 13:47:39,485 [INFO] Chunk 7 本地处理耗时: 0.0001s
+2026-04-07 13:47:43,798 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:43,800 [INFO] Chunk 8 API耗时: 4.31s
+2026-04-07 13:47:43,800 [INFO] Chunk 8 本地处理耗时: 0.0001s
+2026-04-07 13:47:44,723 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:44,725 [INFO] Chunk 9 API耗时: 0.92s
+2026-04-07 13:47:44,725 [INFO] Chunk 9 本地处理耗时: 0.0001s
+2026-04-07 13:47:45,975 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:45,977 [INFO] Chunk 10 API耗时: 1.25s
+2026-04-07 13:47:45,977 [INFO] Chunk 10 本地处理耗时: 0.0001s
+2026-04-07 13:47:47,885 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:47,886 [INFO] Chunk 11 API耗时: 1.91s
+2026-04-07 13:47:47,887 [INFO] Chunk 11 本地处理耗时: 0.0001s
+2026-04-07 13:47:48,828 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:48,831 [INFO] Chunk 12 API耗时: 0.94s
+2026-04-07 13:47:48,831 [INFO] Chunk 12 本地处理耗时: 0.0001s
+2026-04-07 13:47:49,789 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:49,791 [INFO] Chunk 13 API耗时: 0.96s
+2026-04-07 13:47:49,791 [INFO] Chunk 13 本地处理耗时: 0.0003s
+2026-04-07 13:47:50,610 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:50,612 [INFO] Chunk 14 API耗时: 0.82s
+2026-04-07 13:47:50,613 [INFO] Chunk 14 本地处理耗时: 0.0001s
+2026-04-07 13:47:51,779 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:51,781 [INFO] Chunk 15 API耗时: 1.17s
+2026-04-07 13:47:51,782 [INFO] Chunk 15 本地处理耗时: 0.0001s
+2026-04-07 13:47:57,698 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:57,700 [INFO] Chunk 16 API耗时: 5.92s
+2026-04-07 13:47:57,700 [INFO] Chunk 16 本地处理耗时: 0.0001s
+2026-04-07 13:47:58,676 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:58,678 [INFO] Chunk 17 API耗时: 0.98s
+2026-04-07 13:47:58,678 [INFO] Chunk 17 本地处理耗时: 0.0001s
+2026-04-07 13:47:59,767 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:47:59,769 [INFO] Chunk 18 API耗时: 1.09s
+2026-04-07 13:47:59,769 [INFO] Chunk 18 本地处理耗时: 0.0001s
+2026-04-07 13:48:03,795 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:03,797 [INFO] Chunk 19 API耗时: 4.03s
+2026-04-07 13:48:03,798 [INFO] Chunk 19 本地处理耗时: 0.0001s
+2026-04-07 13:48:05,362 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:05,365 [INFO] Chunk 20 API耗时: 1.57s
+2026-04-07 13:48:05,365 [INFO] Chunk 20 本地处理耗时: 0.0001s
+2026-04-07 13:48:06,601 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:06,603 [INFO] Chunk 21 API耗时: 1.24s
+2026-04-07 13:48:06,603 [INFO] Chunk 21 本地处理耗时: 0.0001s
+2026-04-07 13:48:07,865 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:07,867 [INFO] Chunk 22 API耗时: 1.26s
+2026-04-07 13:48:07,867 [INFO] Chunk 22 本地处理耗时: 0.0001s
+2026-04-07 13:48:08,881 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:08,883 [INFO] Chunk 23 API耗时: 1.01s
+2026-04-07 13:48:08,883 [INFO] Chunk 23 本地处理耗时: 0.0001s
+2026-04-07 13:48:09,992 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:09,994 [INFO] Chunk 24 API耗时: 1.11s
+2026-04-07 13:48:09,994 [INFO] Chunk 24 本地处理耗时: 0.0001s
+2026-04-07 13:48:11,039 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:11,041 [INFO] Chunk 25 API耗时: 1.05s
+2026-04-07 13:48:11,041 [INFO] Chunk 25 本地处理耗时: 0.0001s
+2026-04-07 13:48:12,105 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:12,107 [INFO] Chunk 26 API耗时: 1.07s
+2026-04-07 13:48:12,107 [INFO] Chunk 26 本地处理耗时: 0.0001s
+2026-04-07 13:48:13,280 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:13,282 [INFO] Chunk 27 API耗时: 1.17s
+2026-04-07 13:48:13,282 [INFO] Chunk 27 本地处理耗时: 0.0001s
+2026-04-07 13:48:14,438 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:14,440 [INFO] Chunk 28 API耗时: 1.16s
+2026-04-07 13:48:14,441 [INFO] Chunk 28 本地处理耗时: 0.0001s
+2026-04-07 13:48:15,381 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:15,383 [INFO] Chunk 29 API耗时: 0.94s
+2026-04-07 13:48:15,384 [INFO] Chunk 29 本地处理耗时: 0.0001s
+2026-04-07 13:48:16,543 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:16,545 [INFO] Chunk 30 API耗时: 1.16s
+2026-04-07 13:48:16,545 [INFO] Chunk 30 本地处理耗时: 0.0001s
+2026-04-07 13:48:17,438 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:17,440 [INFO] Chunk 31 API耗时: 0.89s
+2026-04-07 13:48:17,440 [INFO] Chunk 31 本地处理耗时: 0.0001s
+2026-04-07 13:48:18,653 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:18,655 [INFO] Chunk 32 API耗时: 1.21s
+2026-04-07 13:48:18,663 [INFO] Chunk 32 本地处理耗时: 0.0001s
+2026-04-07 13:48:19,585 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:19,587 [INFO] Chunk 33 API耗时: 0.92s
+2026-04-07 13:48:19,588 [INFO] Chunk 33 本地处理耗时: 0.0001s
+2026-04-07 13:48:20,803 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:20,805 [INFO] Chunk 34 API耗时: 1.22s
+2026-04-07 13:48:20,806 [INFO] Chunk 34 本地处理耗时: 0.0001s
+2026-04-07 13:48:22,480 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:22,482 [INFO] Chunk 35 API耗时: 1.68s
+2026-04-07 13:48:22,483 [INFO] Chunk 35 本地处理耗时: 0.0001s
+2026-04-07 13:48:23,553 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:23,555 [INFO] Chunk 36 API耗时: 1.07s
+2026-04-07 13:48:23,555 [INFO] Chunk 36 本地处理耗时: 0.0001s
+2026-04-07 13:48:24,516 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:24,518 [INFO] Chunk 37 API耗时: 0.96s
+2026-04-07 13:48:24,518 [INFO] Chunk 37 本地处理耗时: 0.0001s
+2026-04-07 13:48:25,276 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:25,278 [INFO] Chunk 38 API耗时: 0.76s
+2026-04-07 13:48:25,279 [INFO] Chunk 38 本地处理耗时: 0.0001s
+2026-04-07 13:48:27,028 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:27,030 [INFO] Chunk 39 API耗时: 1.75s
+2026-04-07 13:48:27,030 [INFO] Chunk 39 本地处理耗时: 0.0001s
+2026-04-07 13:48:28,131 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:28,133 [INFO] Chunk 40 API耗时: 1.10s
+2026-04-07 13:48:28,134 [INFO] Chunk 40 本地处理耗时: 0.0001s
+2026-04-07 13:48:29,053 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:29,054 [INFO] Chunk 41 API耗时: 0.92s
+2026-04-07 13:48:29,055 [INFO] Chunk 41 本地处理耗时: 0.0001s
+2026-04-07 13:48:30,861 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:30,863 [INFO] Chunk 42 API耗时: 1.81s
+2026-04-07 13:48:30,864 [INFO] Chunk 42 本地处理耗时: 0.0001s
+2026-04-07 13:48:31,853 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:31,854 [INFO] Chunk 43 API耗时: 0.99s
+2026-04-07 13:48:31,855 [INFO] Chunk 43 本地处理耗时: 0.0001s
+2026-04-07 13:48:32,947 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:32,949 [INFO] Chunk 44 API耗时: 1.09s
+2026-04-07 13:48:32,949 [INFO] Chunk 44 本地处理耗时: 0.0001s
+2026-04-07 13:48:34,064 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:34,065 [INFO] Chunk 45 API耗时: 1.12s
+2026-04-07 13:48:34,065 [INFO] Chunk 45 本地处理耗时: 0.0001s
+2026-04-07 13:48:35,251 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:35,253 [INFO] Chunk 46 API耗时: 1.19s
+2026-04-07 13:48:35,253 [INFO] Chunk 46 本地处理耗时: 0.0001s
+2026-04-07 13:48:36,282 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:36,283 [INFO] Chunk 47 API耗时: 1.03s
+2026-04-07 13:48:36,284 [INFO] Chunk 47 本地处理耗时: 0.0001s
+2026-04-07 13:48:37,662 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:37,663 [INFO] Chunk 48 API耗时: 1.38s
+2026-04-07 13:48:37,664 [INFO] Chunk 48 本地处理耗时: 0.0001s
+2026-04-07 13:48:38,784 [INFO] HTTP Request: POST https://api.longcat.chat/openai/chat/completions "HTTP/1.1 200 OK"
+2026-04-07 13:48:38,786 [INFO] Chunk 49 API耗时: 1.12s
+2026-04-07 13:48:38,786 [INFO] Chunk 49 本地处理耗时: 0.0001s
+2026-04-07 13:48:38,801 [INFO] ========== 性能统计 ==========
+2026-04-07 13:48:38,802 [INFO] 总时间: 75.38s
+2026-04-07 13:48:38,802 [INFO] API时间: 75.25s
+2026-04-07 13:48:38,802 [INFO] 本地时间: 0.00s
+2026-04-07 13:48:38,804 [INFO] API占比: 99.82%
+2026-04-07 13:48:38,804 [INFO] 本地占比: 0.01%
