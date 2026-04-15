@@ -1,0 +1,14 @@
+1.导入实体节点
+LOAD CSV WITH HEADERS FROM 'file:///weibo_data_entity.csv' AS row
+MERGE (e:Entity {id: row.acct_id})
+SET e.name = row.dsply_nm
+
+2.导入关系
+LOAD CSV WITH HEADERS FROM 'file:///weibo_data_triplets.csv' AS row
+MATCH (a:Entity {id: row.tran_id})
+MATCH (b:Entity {id: row.orig_acct})
+MERGE (a)-[:RELATION {type: row.bene_acct}]->(b)
+
+3.删除节点
+MATCH (n)
+DETACH DELETE n;
